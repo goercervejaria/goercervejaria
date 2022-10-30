@@ -1,0 +1,14 @@
+.beer-card {
+    /* border: 2px solid white; */
+    cursor: pointer;
+
+}
+
+
+.beer-image {
+    border: 2px solid #ccc;
+}
+
+.active {
+    border: 2px solid yellow;
+}

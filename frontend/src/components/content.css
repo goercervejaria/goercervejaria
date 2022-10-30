@@ -1,0 +1,31 @@
+.content {
+    padding: 48px;
+}
+
+.upper-banner {
+    margin-top: 48px;
+}
+
+.beer-card-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    margin: 12px 0 48px 0;
+    width: 100%;
+    /* justify-content: space-between; */
+
+}
+
+@media screen and (max-width: 720px) {
+    .beer-card-container {
+    }
+}
+
+.lower-banner {
+    margin-bottom: 48px;
+}
+
+.mint-beer-button {
+    margin-right: 0.25%
+}

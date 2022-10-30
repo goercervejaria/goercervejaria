@@ -1,0 +1,31 @@
+{
+  "name": "hackaton-ethlisbon-22",
+  "version": "1.0.0",
+  "description": "## Steps TODO: - Change the frontend and the apk - Plan the SC multisig architecture - Re-do the SC",
+  "main": "index.js",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.0",
+    "axios": "^1.1.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "web.js": "^1.0.1",
+    "web3": "^1.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/adidev_oct_SL/hackaton-ethlisbon-22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/adidev_oct_SL/hackaton-ethlisbon-22/issues"
+  },
+  "homepage": "https://gitlab.com/adidev_oct_SL/hackaton-ethlisbon-22#readme"
+}
